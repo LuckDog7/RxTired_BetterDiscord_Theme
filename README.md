@@ -8,7 +8,7 @@ Firstly, In order to use this theme, You must first download BetterDiscord: http
 Once downloaded, and injected into your Discord, you will need to go to settings, then scroll down until you see "Themes" click "Themes".
 When you do that, you will need to press "Open Themes Folder", Then drag the "rxtired.theme.css" file into your Themes folder, then go back to Discord and toggle it on!
 
-** Second Option **
+*Second Option*
 
 Go to your File Explorer, then go to C:\Users\"your name"\AppData\Roaming\BetterDiscord\themes
 and drag the file into your themes folder, then go back to Discord and toggle it on!
